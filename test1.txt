@@ -1,10 +1,1 @@
- Volume in drive C is Acer
- Volume Serial Number is 204D-964A
-
- Directory of C:\Users\GOPU\Desktop\myproject
-
-24-11-2023  23:04    <DIR>          .
-24-11-2023  22:57    <DIR>          ..
-24-11-2023  23:04                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  53,301,882,880 bytes free
+m1
